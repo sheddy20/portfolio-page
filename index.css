@@ -1,0 +1,46 @@
+body{
+    margin-top: 95px;
+    background-color: #f4f4f4;
+    background-image: url(/Images/invest.jpg);
+    text-orientation: sideways-right;
+    
+}
+
+
+
+.header-1{
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    backdrop-filter: blue;
+}
+
+.nav-bar{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.unoder-list{
+    color: #f4f4f4;
+    width: 500px;
+    margin: auto;
+    font-language-override: inherit;
+    background-image: url(/Images/caya.jpg);
+    border-radius: 55px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main{
+    width: 500px;
+    margin: auto;
+    color: #f4f4f4;
+    background-image: url(/Images/ds.jpg);
+    border-radius: 60px;
+    font-size: 20px;
+    line-height: 1.6em;
+    font-family: 'Courier New', Courier, monospace;
+}
